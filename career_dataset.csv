@@ -1,0 +1,201 @@
+Skills,Interests,Academic_Score,Preferred_Work,Career
+Debugging,Creativity,9.46,Research,ML Engineer
+Testing,Innovation,7.74,Development,UI/UX Designer
+Networking,Teamwork,7.53,Management,Product Manager
+Coding,Detail-Oriented,9.88,Development,Software Engineer
+AI,Detail-Oriented,9.46,Testing,Test Engineer
+Analysis,Research,7.59,Management,Team Lead
+Networking,Creativity,7.3,Testing,QA Engineer
+Planning,Detail-Oriented,8.06,Research,Data Scientist
+Design,Detail-Oriented,9.47,Research,AI Researcher
+Networking,Innovation,6.31,Development,Software Engineer
+Debugging,Teamwork,6.53,Management,Project Manager
+Testing,Creativity,7.61,Management,Project Manager
+Planning,Teamwork,9.24,Testing,QA Engineer
+Design,Teamwork,6.0,Testing,Test Engineer
+Design,Management,8.56,Research,ML Engineer
+AI,Teamwork,9.61,Research,ML Engineer
+Networking,Logic,9.8,Management,Project Manager
+Planning,Innovation,6.37,Development,Web Developer
+Leadership,Creativity,6.36,Development,Software Engineer
+Networking,Creativity,8.37,Testing,Test Engineer
+Planning,Teamwork,7.58,Research,ML Engineer
+Networking,Management,9.08,Management,Product Manager
+Networking,Management,6.89,Research,ML Engineer
+Database,Teamwork,7.33,Development,Software Engineer
+Networking,Teamwork,7.6,Management,Project Manager
+AI,Problem Solving,9.41,Development,Web Developer
+Debugging,Research,9.58,Research,AI Researcher
+Analysis,Research,8.36,Management,Project Manager
+Coding,Teamwork,9.74,Management,Product Manager
+Debugging,Problem Solving,9.25,Testing,QA Engineer
+Database,Logic,9.62,Testing,Test Engineer
+Leadership,Detail-Oriented,9.54,Development,Web Developer
+Planning,Research,8.74,Testing,QA Engineer
+AI,Innovation,6.08,Testing,QA Engineer
+Database,Creativity,9.53,Development,Web Developer
+Coding,Teamwork,7.08,Research,Data Scientist
+Design,Teamwork,9.12,Testing,QA Engineer
+Testing,Teamwork,8.06,Testing,Test Engineer
+Planning,Management,9.44,Development,Software Engineer
+AI,Logic,8.66,Development,Web Developer
+Testing,Detail-Oriented,7.46,Research,ML Engineer
+Testing,Research,6.39,Development,Software Engineer
+Design,Innovation,6.62,Testing,QA Engineer
+Networking,Research,7.81,Management,Product Manager
+Analysis,Detail-Oriented,6.38,Development,Web Developer
+Testing,Problem Solving,8.97,Management,Product Manager
+Leadership,Logic,9.09,Development,UI/UX Designer
+Analysis,Research,9.36,Management,Product Manager
+Planning,Logic,9.56,Development,Software Engineer
+Networking,Research,8.16,Research,AI Researcher
+Design,Research,9.31,Development,Software Engineer
+Testing,Innovation,6.99,Development,Software Engineer
+AI,Innovation,9.24,Research,Data Scientist
+Debugging,Teamwork,7.07,Development,Software Engineer
+Design,Teamwork,7.78,Development,UI/UX Designer
+AI,Management,8.69,Research,ML Engineer
+Analysis,Innovation,9.89,Research,ML Engineer
+Design,Problem Solving,7.3,Development,Software Engineer
+Coding,Problem Solving,9.46,Development,UI/UX Designer
+Networking,Teamwork,7.09,Research,Data Scientist
+Coding,Research,8.65,Development,Web Developer
+Leadership,Creativity,8.11,Management,Product Manager
+Design,Problem Solving,8.68,Management,Team Lead
+Debugging,Management,9.04,Management,Product Manager
+Design,Detail-Oriented,6.24,Testing,QA Engineer
+AI,Logic,7.59,Management,Team Lead
+AI,Logic,7.84,Research,AI Researcher
+Leadership,Detail-Oriented,6.91,Research,AI Researcher
+Database,Management,9.84,Management,Project Manager
+AI,Creativity,8.73,Research,Data Scientist
+Coding,Management,6.03,Management,Project Manager
+Analysis,Research,9.2,Management,Team Lead
+Coding,Problem Solving,7.37,Research,ML Engineer
+Database,Research,8.53,Management,Team Lead
+Coding,Management,7.77,Testing,QA Engineer
+Planning,Detail-Oriented,8.3,Management,Product Manager
+Coding,Management,9.55,Testing,QA Engineer
+Planning,Management,7.79,Development,UI/UX Designer
+Planning,Detail-Oriented,7.48,Development,Web Developer
+Coding,Management,7.09,Management,Product Manager
+Coding,Problem Solving,8.22,Testing,Test Engineer
+Testing,Logic,6.86,Management,Product Manager
+Coding,Creativity,7.32,Testing,Test Engineer
+Design,Research,9.03,Testing,Test Engineer
+Planning,Teamwork,6.37,Management,Product Manager
+Leadership,Innovation,7.35,Development,Web Developer
+Database,Creativity,8.01,Testing,QA Engineer
+Design,Management,8.31,Research,Data Scientist
+Testing,Innovation,7.82,Management,Product Manager
+Leadership,Teamwork,9.62,Development,Web Developer
+Design,Innovation,6.61,Research,AI Researcher
+Database,Teamwork,8.13,Research,ML Engineer
+Database,Innovation,9.5,Testing,QA Engineer
+Debugging,Creativity,8.22,Testing,QA Engineer
+Database,Teamwork,7.3,Management,Team Lead
+Analysis,Management,6.74,Testing,Test Engineer
+AI,Teamwork,7.59,Management,Team Lead
+Networking,Research,9.44,Management,Product Manager
+Analysis,Innovation,6.31,Research,Data Scientist
+Leadership,Creativity,6.38,Development,Web Developer
+Coding,Logic,6.37,Management,Product Manager
+Design,Research,10.0,Research,Data Scientist
+Database,Logic,6.06,Management,Team Lead
+Analysis,Logic,6.01,Research,ML Engineer
+Debugging,Problem Solving,7.73,Development,Web Developer
+Database,Research,9.75,Management,Product Manager
+Leadership,Problem Solving,8.89,Management,Product Manager
+Leadership,Logic,7.83,Testing,Test Engineer
+AI,Research,6.95,Management,Project Manager
+Design,Logic,7.16,Management,Team Lead
+Leadership,Innovation,7.43,Research,ML Engineer
+Planning,Logic,6.92,Testing,QA Engineer
+Database,Innovation,8.9,Research,AI Researcher
+Leadership,Problem Solving,6.95,Development,UI/UX Designer
+Testing,Management,9.25,Testing,Test Engineer
+Leadership,Innovation,6.91,Testing,QA Engineer
+Testing,Problem Solving,7.13,Testing,Test Engineer
+Design,Detail-Oriented,9.86,Research,ML Engineer
+Planning,Detail-Oriented,8.89,Management,Team Lead
+Networking,Research,7.27,Research,Data Scientist
+Planning,Logic,6.08,Testing,QA Engineer
+Analysis,Management,9.76,Testing,Test Engineer
+AI,Problem Solving,8.65,Development,Software Engineer
+Leadership,Logic,8.07,Testing,Test Engineer
+Database,Creativity,8.61,Management,Product Manager
+Testing,Management,6.53,Management,Project Manager
+Analysis,Problem Solving,9.27,Management,Product Manager
+Leadership,Teamwork,6.3,Development,Web Developer
+Debugging,Teamwork,7.62,Development,UI/UX Designer
+Analysis,Teamwork,7.82,Management,Team Lead
+Testing,Creativity,6.58,Research,Data Scientist
+Leadership,Logic,8.13,Research,ML Engineer
+Leadership,Logic,6.89,Testing,Test Engineer
+Leadership,Research,9.15,Development,Web Developer
+Leadership,Research,7.37,Testing,Test Engineer
+Design,Logic,6.27,Development,Web Developer
+Networking,Teamwork,8.09,Development,Web Developer
+AI,Detail-Oriented,9.39,Management,Project Manager
+Testing,Logic,9.98,Development,Web Developer
+Analysis,Creativity,9.1,Management,Product Manager
+Design,Creativity,8.3,Management,Product Manager
+Planning,Research,9.0,Testing,QA Engineer
+Design,Creativity,9.98,Research,Data Scientist
+Debugging,Research,9.3,Testing,Test Engineer
+Planning,Research,7.91,Research,AI Researcher
+Planning,Creativity,6.72,Development,Web Developer
+Testing,Management,6.62,Management,Product Manager
+Planning,Detail-Oriented,6.23,Research,ML Engineer
+Analysis,Problem Solving,9.62,Research,Data Scientist
+Leadership,Management,9.01,Development,UI/UX Designer
+Debugging,Creativity,7.28,Management,Project Manager
+Networking,Problem Solving,8.39,Development,UI/UX Designer
+Debugging,Teamwork,8.48,Research,AI Researcher
+Coding,Logic,6.33,Testing,QA Engineer
+Leadership,Detail-Oriented,7.6,Management,Team Lead
+Planning,Detail-Oriented,6.49,Testing,Test Engineer
+Testing,Research,8.18,Research,AI Researcher
+Leadership,Creativity,7.97,Research,Data Scientist
+Design,Innovation,8.65,Testing,QA Engineer
+Analysis,Teamwork,7.92,Research,AI Researcher
+Testing,Management,6.99,Research,Data Scientist
+Leadership,Teamwork,9.82,Testing,Test Engineer
+AI,Creativity,6.48,Management,Product Manager
+Planning,Creativity,9.25,Research,AI Researcher
+Design,Detail-Oriented,7.39,Management,Product Manager
+Planning,Innovation,9.34,Testing,QA Engineer
+Debugging,Innovation,7.8,Research,AI Researcher
+Database,Innovation,9.01,Testing,QA Engineer
+Networking,Creativity,7.13,Management,Project Manager
+Coding,Research,9.33,Testing,QA Engineer
+Planning,Problem Solving,7.32,Development,Web Developer
+Database,Research,6.85,Management,Team Lead
+Design,Management,9.7,Management,Product Manager
+Database,Teamwork,8.19,Research,AI Researcher
+Debugging,Problem Solving,8.45,Management,Project Manager
+Testing,Management,6.43,Testing,Test Engineer
+Testing,Detail-Oriented,6.51,Management,Product Manager
+Testing,Management,8.74,Testing,QA Engineer
+Leadership,Detail-Oriented,8.08,Development,Web Developer
+Planning,Logic,8.67,Development,Software Engineer
+Networking,Research,6.2,Development,Software Engineer
+Planning,Teamwork,8.99,Management,Team Lead
+Leadership,Detail-Oriented,8.18,Management,Project Manager
+AI,Problem Solving,6.7,Testing,Test Engineer
+Leadership,Management,7.71,Development,Software Engineer
+Leadership,Problem Solving,9.08,Testing,QA Engineer
+Leadership,Detail-Oriented,8.7,Management,Product Manager
+Networking,Creativity,8.65,Management,Team Lead
+Debugging,Problem Solving,8.53,Management,Project Manager
+Design,Research,6.53,Development,UI/UX Designer
+Debugging,Problem Solving,8.2,Management,Team Lead
+Networking,Logic,8.32,Development,Web Developer
+Coding,Detail-Oriented,6.81,Research,Data Scientist
+Leadership,Logic,9.1,Testing,Test Engineer
+Leadership,Teamwork,9.46,Testing,Test Engineer
+Networking,Management,8.28,Research,ML Engineer
+Analysis,Innovation,6.84,Testing,QA Engineer
+Coding,Innovation,8.41,Research,Data Scientist
+Database,Research,6.24,Management,Product Manager
+Design,Teamwork,8.78,Management,Product Manager
